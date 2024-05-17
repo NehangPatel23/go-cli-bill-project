@@ -1,0 +1,9 @@
+Bill Breakdown: 
+
+Coffee:                   ...$3.99 
+Cake:                     ...$4.55 
+Veg. Stew:                ...$6.99 
+
+Tip:                      ...$3.00 
+
+Total:                    ...$18.53
