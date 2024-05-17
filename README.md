@@ -1,4 +1,4 @@
-# CLI Bill Project
+# GoLang CLI Bill Project
 
 A simple command-line application written in Go for managing bills. This application allows users to create a new bill, add items, add tips, and save the bill to a file.
 
