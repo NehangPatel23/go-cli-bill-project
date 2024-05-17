@@ -64,4 +64,4 @@ The bill was saved successfully!
 You chose to save the bill to the file -  Nehang's Bill
 ```
 
-The output bill file would look like this: [Sample Output]()
+The output bill file would look like this: [Sample Output](https://github.com/NehangPatel23/cli-bill-project/blob/main/bills/Nehang's%20Bill.txt)
